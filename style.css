@@ -67,19 +67,18 @@ body {
 /* Responsive Design */
 @media (max-width: 768px) {
     .container {
-        padding: 1.5rem;
+        padding: 3rem;
     }
 
     .brand-name {
-        font-size: 1.75rem;
+        font-size: 2.5rem; /* Ubah dari 2rem menjadi 2.5rem */
     }
-
+    
     .tagline {
-        font-size: 1rem;
+        font-size: 1.5rem; /* Ubah dari 1.25rem menjadi 1.5rem */
     }
-
+    
     .link {
-        font-size: 1rem;
-        padding: 0.5rem;
+        font-size: 1rem 0.75rem; /* Ubah dari 1rem menjadi 1.25rem */
     }
 }
