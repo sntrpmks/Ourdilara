@@ -61,17 +61,17 @@ body {
 
 .link:hover {
     background-color: #cb956b;
-    color: #fff;
+    color: #ffffff;
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
     .container {
         padding: 1.5rem;
     }
 
     .brand-name {
-        font-size: 1.75rem;
+        font-size: 1.5rem;
     }
 
     .tagline {
